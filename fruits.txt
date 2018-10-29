@@ -1,3 +1,6 @@
 apple
 banana
+durian
+pineapple
+orange
 cherry
