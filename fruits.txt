@@ -1,3 +1,6 @@
 apple
 banana
+honeydew
+watermelon
+kiwi
 cherry
