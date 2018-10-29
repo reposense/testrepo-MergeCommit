@@ -1,6 +1,8 @@
 apple
 banana
-durian
+honeydew
+watermelon
+strawberry
 pineapple
 orange
 cherry
